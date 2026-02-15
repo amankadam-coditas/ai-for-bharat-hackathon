@@ -1,1 +1,0 @@
-# ai-for-bharat-hackathon

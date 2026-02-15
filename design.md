@@ -48,3 +48,4 @@ The system follows a **Microservices-based Layered Architecture**, separating th
 ## 4. Process Flow Architecture (Flowchart)
 
 This diagram represents the lifecycle of a single complaint from the user to the database.
+![Sequence Diagram](https://raw.githubusercontent.com/amankadam-coditas/ai-for-bharat-hackathon/refs/heads/main/assets/sequence-diagram.png)
